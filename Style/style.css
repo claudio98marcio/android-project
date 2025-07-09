@@ -43,6 +43,8 @@ header h1{
 header p{
     text-align: center;
     font-size: 1.2em;
+    margin: 0px 0px -15px 0px;
+    padding-bottom: 15px;
 }
 
 nav{
@@ -136,7 +138,7 @@ a.external::after{
     background-color: var(--base-black);
     margin: 20px 0px 20px 0px;
     padding: 20px;
-    padding-bottom: 40%;
+    padding-bottom: 60%;
     position: relative;
 }
 
